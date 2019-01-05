@@ -1,4 +1,4 @@
-# Classify Song Genres from Audio Data
+# Classifying Song Genres from Audio Data
 
 ## Description
 
