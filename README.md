@@ -3,5 +3,4 @@
 <a href="https://sourcerer.io/tarandeep97"><img src="https://avatars0.githubusercontent.com/u/28994081?v=4" height="50px" width="50px" alt=""/></a><a href="https://sourcerer.io/tarandeep97"><img src="https://img.shields.io/badge/Python-59%20commits-orange.svg" alt=""></a>
 
 ## Description
-
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify).
+A classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify).
